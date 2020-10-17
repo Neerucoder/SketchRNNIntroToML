@@ -4,3 +4,6 @@ https://github.com/magenta/magenta-demos/blob/master/jupyter-notebooks/Sketch_RN
 
 Note:If You are unable to see the file in gradescope please view on github:
 https://github.com/nn210/SketchRNNIntroToML/blob/main/SketchRNN_Magenta_Final.ipynb
+
+To View Our data preparation please refer:
+https://github.com/nn210/SketchRNNIntroToML/blob/main/Making_the_training_data.ipynb
