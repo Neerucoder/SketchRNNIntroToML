@@ -17,3 +17,7 @@ The approach to train the sketch rnn on the MNIST dataset was inspired by the ap
 https://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/
 and
 https://medium.com/analytics-vidhya/analyzing-sketches-around-the-world-with-sketch-rnn-c6cbe9b5ac80
+
+Contributors:
+Neeraja Narayanswamy
+Sahil Makwane
