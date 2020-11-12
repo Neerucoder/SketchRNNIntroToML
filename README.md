@@ -18,6 +18,8 @@ https://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-character
 and
 https://medium.com/analytics-vidhya/analyzing-sketches-around-the-world-with-sketch-rnn-c6cbe9b5ac80
 
-Contributors:
+Contributors :
+
 Neeraja Narayanswamy
+
 Sahil Makwane
